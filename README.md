@@ -8,4 +8,4 @@ Passando à análise exploratória, foi calculada a média simples total da prov
 A fim de se analisar as notas comparadas ao sexo, raça e tipo de escolar, foram utilizados gráficos de boxplot, da biblioteca plotly, para se ter uma ideia da distribuição
 das notas. Vale ressaltar que não foram removidos os dados outliers, considerando que o objeto da análise são as notas dos cancidatos.
 
-NOTA: os gráficos foram subidos em arquivos .html separados devido ao limite de arquivos para display do github
+NOTA: os gráficos foram subidos em arquivos .png separados devido ao limite de arquivos para display do github
